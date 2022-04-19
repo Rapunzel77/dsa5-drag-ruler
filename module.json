@@ -2,7 +2,7 @@
     "name": "dsa5-drag-ruler",
     "title": "The Dark Eye 5th Ed. - Drag Ruler Integration",
     "description": "Custom provider for drag ruler, providing out of the box compatibility for TDE5/DSA5.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Rapunzel77",
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion": "9",
@@ -37,5 +37,5 @@
     "changelog" : "https://github.com/Rapunzel77/dsa5-drag-ruler/releases/latest",
     "url": "https://github.com/Rapunzel77/dsa5-drag-ruler",
     "manifest": "https://github.com/Rapunzel77/dsa5-drag-ruler/releases/latest/download/module.json",
-    "download": "https://github.com/Rapunzel77/dsa5-drag-ruler/archive/refs/tags/1.0.1.zip"
+    "download": "https://github.com/Rapunzel77/dsa5-drag-ruler/archive/refs/tags/1.0.2.zip"
 }
