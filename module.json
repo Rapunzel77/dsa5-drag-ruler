@@ -1,0 +1,37 @@
+{
+    "name": "dsa5-drag-ruler",
+    "title": "The Dark Eye 5th Ed. - Drag Ruler Integration",
+    "description": "Custom provider for drag ruler, providing out of the box compatibility for TDE5/DSA5.",
+    "version": "1.0.0",
+    "author": "Nico Feiertag",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "9",
+    "esmodules": [
+        "scripts/main.js"
+    ],
+    "dependencies": [
+        {
+            "name": "dsa5",
+            "type": "system"
+        },
+        {
+            "name": "drag-ruler",
+            "type": "module"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "de",
+            "name": "Deutsch",
+            "path": "lang/de.json"
+        },
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}

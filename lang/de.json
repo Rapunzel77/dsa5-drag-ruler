@@ -1,0 +1,8 @@
+{
+  "dragRuler": {
+    "TDE5" : {
+      "walk": "gehen",
+      "dash": "laufen"
+    }
+  }
+}
