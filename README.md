@@ -1,4 +1,4 @@
-# TDA 5 Drag Ruler Integration (Dsa Schwarze Auge)
+# TDA5/DSA5 Drag Ruler Integration (Das Schwarze Auge)
 
 A FoundryVTT module that adds a speed provider to Drag Ruler for TDE.
 
@@ -12,4 +12,4 @@ Sprinting for action is indicated as second threshold (speed * 2)
 ## Limitations
 
 Does not work nicely for any token that has multiple movement types. 
-For example birds that could fly or walk.
+For example, birds that could fly or walk.
