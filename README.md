@@ -12,4 +12,4 @@ Sprinting for action is indicated as second threshold (speed * 2)
 ## Limitations
 
 Does not work nicely for any token that has multiple movement types. 
-For example birds that could fly or walk.
+For example, birds that could fly or walk. Only the configured speed in the sheet is used.
