@@ -1,4 +1,4 @@
-# TDA 5 Drag Ruler Integration (Dsa Schwarze Auge)
+# TDE 5 Drag Ruler Integration (Das Schwarze Auge)
 
 A FoundryVTT module that adds a speed provider to Drag Ruler for TDE.
 
