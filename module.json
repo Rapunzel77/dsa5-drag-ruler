@@ -24,7 +24,7 @@
                 "manifest": "https://raw.githubusercontent.com/Plushtoast/dsa5-foundryVTT/foundry10/system.json",
                 "compatibility": {
                     "minimum": "4.0.6",
-                    "verified": "4.0.6"
+                    "verified": "4.1.0"
                 }
             }
         ],
