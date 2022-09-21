@@ -13,7 +13,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
         // Currently only (N)PCs work nicely. Monsters only work until they have special rules like birds that could
         // fly or walk and thus can be handled differently
         getRanges(token) {
-            const baseSpeed = token.actor.data.data.status.speed.max;
+            const baseSpeed = token.actor.system.status.speed.max;
             return [
                 {range: baseSpeed, color: "walk"},
                 {range: baseSpeed * 2, color: "dash"}
