@@ -1,4 +1,8 @@
 ## 1.10.2
+### Bugfixes
+- Fixed Spelling
+
+## 1.10.2
 ### Features
 - verified for current DragRuler Version 1.13.2
 - added this CHANGELOG
