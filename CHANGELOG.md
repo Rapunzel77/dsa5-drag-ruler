@@ -1,6 +1,6 @@
 ## 1.10.2
 ### Features
-- verified for current DraRuler Version 1.13.2
+- verified for current DragRuler Version 1.13.2
 - added this CHANGELOG
 
 ### Bugfixes
