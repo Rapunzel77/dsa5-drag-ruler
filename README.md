@@ -11,5 +11,5 @@ Sprinting for action is indicated as second threshold (speed * 2)
 
 ## Limitations
 
-Only works with the official THE5 speeds. Multiple movement types are not supported here as they are not 
-supported by THE5. For example, birds that could fly or walk. Only the configured speed in the sheet is used.
+Only works with the official TDE5/DSA5 speeds. Multiple movement types are not supported here as they are not 
+supported by TDE5/DSA5. For example, birds that could fly or walk. Only the configured speed in the sheet is used.
