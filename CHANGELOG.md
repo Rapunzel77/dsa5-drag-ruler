@@ -1,3 +1,7 @@
+## 1.11.0
+### Features
+- Update to Foundry v11
+
 ## 1.10.3
 ### Bugfixes
 - Fixed Spelling
