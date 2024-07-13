@@ -1,3 +1,7 @@
+## 1.12.0
+### Features
+- Update to Foundry v12
+
 ## 1.11.0
 ### Features
 - Update to Foundry v11
@@ -22,7 +26,6 @@
 ### Features
 - Foundry V10 early release.
 - This has been tested using the hotfix fork by Traumi: https://github.com/Traumi/foundryvtt-drag-ruler It is unlikely that another update is required for the final official release - a fix will be released if the official release deviates and requires an update
-
 
 ## 1.0.3
 ### Bugfixes
